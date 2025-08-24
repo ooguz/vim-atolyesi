@@ -1,0 +1,8 @@
+Bir editor ile sayfayi kaaaydirabilir,
+imleçi oynata bilir, satır silip, karekter nisret
+ede bilir ve daha fazlasini yapabilirsiniz.
+
+Yaptiginiz degişikliklerin sonucunu aninda
+görebilirsiniz. Dosyayi okuruken degişiklik
+yapmaya izin verdikleri için, tıpkı basılı bir
+kopyayi duzeltir gibi, ekran editorleri çok popülerdir.
